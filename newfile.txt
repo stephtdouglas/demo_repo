@@ -1,1 +1,3 @@
 Hello World! This is a very useful file. 
+
+Let's have a merge conflict!
